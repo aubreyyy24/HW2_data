@@ -1,0 +1,13 @@
+,Alternate,Bar,Friday,Hungry,Patrons,Price,Raining,Reservation,Type,WaitEstimate,Wait
+X1,T,F,F,T,Some,High,F,T,French,8,T
+X2,T,F,F,T,Full,Low,F,F,Thai,40,F
+X3,F,T,F,F,Some,Low,F,F,Burger,8,T
+X4,T,F,T,T,Full,Low,F,F,Thai,12,T
+X5,T,F,T,F,Full,High,F,T,French,70,F
+X6,F,T,F,T,Some,Medium,T,T,Italian,3,T
+X7,F,T,F,F,None,Low,T,F,Burger,7,F
+X8,F,F,F,T,Some,Medium,T,T,Thai,6,T
+X9,F,T,T,F,Full,Low,T,F,Burger,80,F
+X10,T,T,T,T,Full,High,F,T,Italian,20,F
+X11,F,F,F,F,None,Low,F,F,Thai,8,F
+X12,T,T,T,T,Full,Low,F,F,Burger,40,T
